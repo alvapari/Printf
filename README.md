@@ -14,8 +14,12 @@ Al igual que sucedía en el proyecto anterior, Printf se irá utilizando a lo la
 
 <br>
 
+### Documentación:
+
 Si quieres ver la **documentación completa del desarrollo del proyecto**, puedes ver estos apuntes: <br>
 [Documentación](https://42guideprojects.notion.site/Printf-58980a19eb904b1882b039ae9bf09d27)
+
+### Requerimientos:
 
 Si quieres leer los requerimientos del proyecto, puedes encontrarlos aquí: <br>
 [Requerimientos](https://github.com/user-attachments/files/17881300/es.subject.pdf)
